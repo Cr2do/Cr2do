@@ -4,9 +4,8 @@
 
 *Building scalable data platforms, cloud-native applications and intelligent systems.*
 
-**LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
-**Email:** YOUR_EMAIL
-**Portfolio:** Coming Soon
+**LinkedIn:** https://linkedin.com/in/credo-ayivi
+**Email:** credoay@gmail.com
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=22\&pause=1000\&center=true\&vCenter=true\&width=650\&color=3B82F6\&lines=Data+Engineering;AI+Engineering;Cloud+Computing;Distributed+Systems;Always+Learning)
 
@@ -47,16 +46,6 @@ I enjoy designing reliable backend systems, developing data-intensive applicatio
 ### Frontend
 
 `React` • `Tailwind CSS` • `D3.js`
-
----
-
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cr2do\&show_icons=true\&hide_border=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr2do\&layout=compact\&hide_border=true\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cr2do\&theme=tokyonight\&hide_border=true)
 
 ---
 
