@@ -1,59 +1,51 @@
-# Hi 👋 I'm Crédo AYIVI
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="A violet, cyan and fuchsia pathway connecting four areas of expertise" width="100%" />
+</p>
 
-### Data Engineer • AI Engineer • Software Engineer
+# Hi, I'm Crédo Marie-diégo AYIVI 👋
 
-*Building scalable data platforms, cloud-native applications and intelligent systems.*
+**Data Engineer** · AI Engineer · Software Engineer · DevOps / Cloud Engineer
 
-**LinkedIn:** https://linkedin.com/in/credo-ayivi
-**Email:** credoay@gmail.com
+> From data ingestion to production, I connect data, AI, software and cloud.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=22\&pause=1000\&center=true\&vCenter=true\&width=650\&color=3B82F6\&lines=Data+Engineering;AI+Engineering;Cloud+Computing;Distributed+Systems;Always+Learning)
+[Explore my portfolio](https://me.cr2do-ayivi.com/#skills) · [Get in touch](mailto:mdiego.ayivi@gmail.com)
 
----
+## About
 
-# About Me
+Data engineering is my starting point: ingestion, transformation, storage and access to data. AI, software engineering and DevOps build on that foundation to shape systems end to end.
 
-I'm a **Data Engineer** and **Software Engineer** passionate about building scalable data platforms, distributed systems, and cloud-native applications.
+**Data → applications → production**
 
-Currently pursuing a Master's degree in **MIAGE** at **Université Côte d'Azur**, while working as a **Data Engineer at GLOBALOPTIM**, where I contribute to enterprise software, AI-driven solutions, and modern data architectures.
+## Expertise
 
-I enjoy designing reliable backend systems, developing data-intensive applications, and continuously exploring new technologies in AI and cloud computing.
+### Data Engineer
 
----
+Pipelines, distributed processing, modeling and analytics platforms.
 
-# Tech Stack
+`Python` · `SQL` · `Apache Spark` · `Apache Kafka` · `Apache Airflow` · `dbt` · `Databricks` · `Snowflake`
 
-### Languages
+### AI Engineer
 
-`Python` • `Java` • `TypeScript` • `JavaScript` • `SQL`
+Models, LLM applications, RAG and production delivery.
 
-### Backend
+`Python` · `PyTorch` · `Hugging Face` · `RAG` · `LangGraph` · `Qdrant` · `FastAPI` · `MLflow`
 
-`Spring Boot` • `Spring Cloud` • `Hibernate` • `REST APIs`
+### Software Engineer
 
-### Data Engineering
+Services, APIs and interfaces with maintainable architecture.
 
-`Apache Spark` • `Kafka` • `Airflow` • `Databricks` • `BigQuery`
+`Java` · `Spring Boot` · `TypeScript` · `React` · `FastAPI` · `PostgreSQL` · `REST APIs` · `Docker`
 
-### Cloud & DevOps
+### DevOps / Cloud Engineer
 
-`Docker` • `Kubernetes` • `Terraform` • `AWS` • `Google Cloud`
+Infrastructure, continuous delivery, security and observability.
 
-### Databases
+`AWS` · `Terraform` · `Docker` · `Kubernetes` · `Helm` · `GitHub Actions` · `ArgoCD` · `Prometheus`
 
-`PostgreSQL` • `MySQL` • `MariaDB` • `MongoDB` • `Neo4j` • `Cassandra`
+[Explore all technologies on my portfolio](https://me.cr2do-ayivi.com/#skills)
 
-### Frontend
+## Contact
 
-`React` • `Tailwind CSS` • `D3.js`
-
----
-
-# Contact
-
-* 💼 LinkedIn — https://linkedin.com/in/credo-ayivi
-* 📧 Email — credoay@gmail.com
-
----
-
-> *Build scalable systems. Keep learning. Ship impactful software.*
+- [Portfolio](https://me.cr2do-ayivi.com/)
+- [LinkedIn](https://linkedin.com/in/credo-ayivi)
+- [Email](mailto:mdiego.ayivi@gmail.com)

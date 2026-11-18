@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title description">
+  <title id="title">From data to production</title>
+  <desc id="description">A data node branches into AI, software, and cloud nodes in violet, cyan, and fuchsia.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17112e"/>
+      <stop offset="1" stop-color="#0e1d32"/>
+    </linearGradient>
+    <linearGradient id="path" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset=".5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#e879f9"/>
+    </linearGradient>
+    <radialGradient id="violetGlow">
+      <stop stop-color="#a855f7" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow">
+      <stop stop-color="#22d3ee" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="fuchsiaGlow">
+      <stop stop-color="#e879f9" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#e879f9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="238" rx="24" fill="url(#background)" stroke="#554476" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="170" cy="120" r="170" fill="url(#violetGlow)"/>
+  <circle cx="610" cy="65" r="190" fill="url(#cyanGlow)"/>
+  <circle cx="1030" cy="170" r="175" fill="url(#fuchsiaGlow)"/>
+
+  <g fill="none" stroke="url(#path)" stroke-width="3" stroke-linecap="round">
+    <path d="M224 120 H370 C420 120 420 54 470 54 H548"/>
+    <path d="M224 120 H678"/>
+    <path d="M224 120 H370 C420 120 420 186 470 186 H868"/>
+    <path d="M739 120 H868"/>
+  </g>
+  <g fill="#c084fc">
+    <circle cx="370" cy="120" r="5"/>
+    <circle cx="678" cy="120" r="5"/>
+  </g>
+
+  <g fill="#201537" stroke="#c084fc" stroke-width="3">
+    <circle cx="170" cy="120" r="54"/>
+  </g>
+  <g fill="#102f40" stroke="#67e8f9" stroke-width="3">
+    <circle cx="590" cy="54" r="42"/>
+    <circle cx="720" cy="120" r="42"/>
+  </g>
+  <g fill="#3c1e4c" stroke="#f0abfc" stroke-width="3">
+    <circle cx="910" cy="186" r="42"/>
+  </g>
+
+  <g fill="none" stroke="#f5f3ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="170" cy="104" rx="20" ry="8"/>
+    <path d="M150 104v27c0 5 9 9 20 9s20-4 20-9v-27M150 117c0 5 9 9 20 9s20-4 20-9"/>
+
+    <circle cx="590" cy="43" r="4"/>
+    <circle cx="578" cy="62" r="4"/>
+    <circle cx="602" cy="62" r="4"/>
+    <path d="M588 47l-8 11m12-11 8 11m-18 4h16"/>
+
+    <path d="m710 110-10 10 10 10m20-20 10 10-10 10m-7-24-6 28"/>
+
+    <path d="M896 197h28a11 11 0 0 0 1-22 16 16 0 0 0-30-2 12 12 0 0 0 1 24Z"/>
+  </g>
+</svg>
